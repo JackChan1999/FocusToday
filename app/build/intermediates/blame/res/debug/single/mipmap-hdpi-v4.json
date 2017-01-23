@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\splash_bg_newyear.jpg",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-hdpi\\splash_bg_newyear.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\image_demo.jpg",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-hdpi\\image_demo.jpg"
+    }
+]

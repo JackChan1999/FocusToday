@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="t_text_size">17sp</dimen>
+    <dimen name="s_text_size">10sp</dimen>
+    <dimen name="prompt_text_size">18sp</dimen>
+    <dimen name="button_text_size">19sp</dimen>
+    <dimen name="title">20sp</dimen>
+    <dimen name="radio_text_size">15sp</dimen>
+    <dimen name="item_phone_size">12sp</dimen>
+    <dimen name="item_dialog">25sp</dimen>
+    <dimen name="a_text_size">14sp</dimen>
+    <dimen name="b_text_size">13sp</dimen>
+    <dimen name="c_text_size">16sp</dimen>
+    <dimen name="divider">0.5dp</dimen>
+
+    <!-- city -->
+    <dimen name="wheel_text_w">140dp</dimen>
+
+    <!-- recharge -->
+    <dimen name="page_margin">12dp</dimen>
+
+    <!--  -->
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    
+     <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="dp_066">0.66dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_14">14dp</dimen>
+    <dimen name="dp_22">22dp</dimen>
+    <dimen name="dp_36">36dp</dimen>
+    <dimen name="dp_40">40dp</dimen>
+    <dimen name="dp_60">60dp</dimen>
+    <dimen name="dp_72">72dp</dimen>
+
+    <dimen name="sp_12">12sp</dimen>
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="sp_16">16sp</dimen>
+    
+    <!-- viewpagerindicator -->
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+
+    <dimen name="bottom_navigation_elevation">8dp</dimen>
+    <dimen name="bottom_navigation_shadow_height">8dp</dimen>
+    <dimen name="bottom_navigation_shadow_height_without_colored_background">4dp</dimen>
+    <dimen name="bottom_navigation_min_width">104dp</dimen>
+    <dimen name="bottom_navigation_max_width">168dp</dimen>
+    <dimen name="bottom_navigation_height">56dp</dimen>
+    <dimen name="bottom_navigation_line_width">1dp</dimen>
+    <dimen name="bottom_navigation_icon">24dp</dimen>
+    <dimen name="bottom_navigation_padding_top_active">5dp</dimen>
+    <dimen name="bottom_navigation_padding_top_inactive">9dp</dimen>
+    <dimen name="bottom_navigation_padding_top_inactive_without_text">16dp</dimen>
+    <dimen name="bottom_navigation_padding_bottom">7dp</dimen>
+    <dimen name="bottom_navigation_padding_left">12dp</dimen>
+    <dimen name="bottom_navigation_padding_right">12dp</dimen>
+    <dimen name="bottom_navigation_text_size_active">14sp</dimen>
+    <dimen name="bottom_navigation_text_size_inactive">12sp</dimen>
+
+    <dimen name="text_inactive">10dp</dimen>
+    <dimen name="text_active">12dp</dimen>
+
+</resources>

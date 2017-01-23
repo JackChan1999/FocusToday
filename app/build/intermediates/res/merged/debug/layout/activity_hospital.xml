@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/register_province"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/edittext_frame"
+            android:drawableLeft="@mipmap/dot_drivers"
+            android:drawablePadding="8dp"
+            android:gravity="left|center_vertical"
+            android:orientation="vertical"
+            android:paddingLeft="15dp"
+            android:textColor="@color/text_dark_gray"
+            android:textSize="@dimen/t_text_size" >
+            </Button>
+            
+        <Button
+            android:id="@+id/register_city"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/edittext_frame"
+            android:drawableLeft="@mipmap/dot_drivers"
+            android:drawablePadding="8dp"
+            android:gravity="left|center_vertical"
+            android:orientation="vertical"
+            android:paddingLeft="15dp"
+            android:textColor="@color/text_dark_gray"
+            android:textSize="@dimen/t_text_size" >
+            </Button>
+
+        <EditText
+            android:id="@+id/register_disease"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/edittext_frame"
+            android:hint="@string/hide_disease_name"
+            android:orientation="vertical"
+            android:paddingLeft="15dp"
+            android:textColorHint="@color/frame_gray"
+            android:textSize="@dimen/t_text_size" />
+
+        <Button
+            android:id="@+id/register_check"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginBottom="35dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="35dp"
+            android:background="@drawable/button_ok_bg"
+            android:orientation="vertical"
+            android:paddingLeft="15dp"
+            android:text="@string/button_search"
+            android:textColor="@color/white"
+            android:textSize="@dimen/button_text_size" />
+    </LinearLayout>
+
+</LinearLayout>

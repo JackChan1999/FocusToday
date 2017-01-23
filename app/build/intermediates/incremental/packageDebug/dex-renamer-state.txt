@@ -1,0 +1,7 @@
+#Sun Dec 18 12:27:26 CST 2016
+base.0=E\:\\workspace\\SmartCity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5f6cf3873ec1f558c3029dc3039ccb7521e3f9cb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\workspace\\SmartCity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_09cfa34001e911e81b138fad9caba40dae33a311\\classes.dex
+base.1=E\:\\workspace\\SmartCity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_09cfa34001e911e81b138fad9caba40dae33a311
+file.0=E\:\\workspace\\SmartCity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5f6cf3873ec1f558c3029dc3039ccb7521e3f9cb\\classes.dex

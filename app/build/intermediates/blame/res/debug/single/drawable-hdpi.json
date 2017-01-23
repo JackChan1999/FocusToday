@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_item_top_default.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\ic_more_item_top_default.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\divider_horizontal_holo_dark.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\divider_horizontal_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_dialog_bg.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\progress_dialog_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_item_pressed.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\ic_more_item_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\register_btn.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\register_btn.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vote_detail_item_bg.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\vote_detail_item_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\register_bottom_bg.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\register_bottom_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_item_bottom_pressed.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\ic_more_item_bottom_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_item_default.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\ic_more_item_default.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\register_mid_bg.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\register_mid_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_red_pressed.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\button_red_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_user_bg.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\login_user_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_key_bg.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\login_key_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_item_middle_default.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\ic_more_item_middle_default.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_item_top_pressed.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\ic_more_item_top_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\register_top_bg.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\register_top_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_btn.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\login_btn.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_item_bottom_default.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\ic_more_item_bottom_default.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_red_normal.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\button_red_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic_list_item_bg.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\pic_list_item_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_item_middle_pressed.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\ic_more_item_middle_pressed.9.png"
+    }
+]

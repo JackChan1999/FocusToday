@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.baidu.mapapi.map.MapView
+        android:id="@+id/bmapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true" />
+
+    <RelativeLayout
+        android:id="@+id/rl_vp"
+        android:layout_width="match_parent"
+        android:layout_height="128dp"
+        android:layout_alignParentBottom="true"
+        android:background="@mipmap/bottom_shadow"
+        android:clipChildren="false"
+        android:paddingBottom="12dp" >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/vp"
+            android:layout_width="300dp"
+            android:layout_height="100dp"
+            android:layout_centerInParent="true"
+            android:clipChildren="false" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/iv_loc"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_above="@id/rl_vp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="12dp"
+        android:contentDescription="@null"
+        android:src="@mipmap/location" />
+
+    <ImageView
+        android:id="@+id/iv_list"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_above="@id/iv_loc"
+        android:layout_alignParentRight="true"
+        android:layout_margin="12dp"
+        android:contentDescription="@null"
+        android:src="@mipmap/list" />
+
+</RelativeLayout>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@mipmap/video_player_bg_color"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="34dp"
+            android:background="#a000">
+
+            <ImageButton
+                android:id="@+id/mediacontroller_top_back"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="40dp"
+                android:background="@null"
+                android:src="@mipmap/video_back"/>
+
+            <TextView
+                android:id="@+id/mediacontroller_filename"
+                style="@style/MediaController_Text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="16dp"
+                android:layout_toRightOf="@+id/mediacontroller_top_back"
+                android:ellipsize="marquee"
+                android:singleLine="true"
+                android:text="file name"/>
+
+            <ImageButton
+                android:id="@+id/mediacontroller_player_more"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="16dp"
+                android:background="@null"
+                android:src="@mipmap/video_player_more"/>
+
+            <ImageButton
+                android:id="@+id/mediacontroller_player_switch_float"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="16dp"
+                android:layout_toLeftOf="@id/mediacontroller_player_more"
+                android:background="@null"
+                android:src="@mipmap/video_player_switch_float"/>
+
+            <ImageButton
+                android:id="@+id/mediacontroller_download"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="16dp"
+                android:layout_toLeftOf="@id/mediacontroller_player_switch_float"
+                android:background="@null"
+                android:src="@mipmap/video_player_download"/>
+
+            <ImageButton
+                android:id="@+id/mediacontroller_share"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="16dp"
+                android:layout_toLeftOf="@id/mediacontroller_download"
+                android:background="@null"
+                android:src="@android:drawable/ic_menu_share"/>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/operation_volume_brightness"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/toast_frame"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="gone"
+            >
+
+            <ImageView
+                android:id="@+id/operation_bg"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:src="@mipmap/video_volumn_bg"/>
+
+            <TextView
+                android:id="@+id/operation_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:textColor="#ffffff"
+                android:textSize="16sp"
+                android:visibility="gone"
+                />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:layout_alignParentBottom="true"
+            android:background="#a000">
+
+            <ImageButton
+                android:id="@+id/mediacontroller_play_pause"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="40dp"
+                android:background="@null"
+                android:src="@drawable/play_selector"
+                />
+
+            <TextView
+                android:id="@+id/mediacontroller_time_current"
+                style="@style/MediaController_Text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="16dp"
+                android:layout_toRightOf="@id/mediacontroller_play_pause"
+                android:text="33:33:33"
+                />
+
+            <TextView
+                android:id="@+id/mediacontroller_time_total"
+                style="@style/MediaController_Text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="40dp"
+                android:text="33:33:33"/>
+
+            <SeekBar
+                android:id="@+id/mediacontroller_seekbar"
+                style="@style/MediaController_SeekBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@id/mediacontroller_time_total"
+                android:layout_toRightOf="@id/mediacontroller_time_current"
+                android:focusable="true"
+                android:max="1000"/>
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>
