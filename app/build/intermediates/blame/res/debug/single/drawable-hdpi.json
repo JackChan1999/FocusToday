@@ -24,12 +24,12 @@
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\register_btn.9.png"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vote_detail_item_bg.9.png",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\vote_detail_item_bg.9.png"
-    },
-    {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\register_bottom_bg.9.png",
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\register_bottom_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vote_detail_item_bg.9.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable-hdpi\\vote_detail_item_bg.9.png"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_item_bottom_pressed.9.png",

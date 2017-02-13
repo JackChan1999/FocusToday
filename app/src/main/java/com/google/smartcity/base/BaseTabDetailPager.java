@@ -59,8 +59,8 @@ import java.util.List;
  * ============================================================
  **/
 public abstract class BaseTabDetailPager extends BaseMenuDetailPager implements LoadmoreWrapper
-        .OnLoadMoreListener, ViewPager.OnPageChangeListener, SwipeRefreshLayout.OnRefreshListener {
-
+        .OnLoadMoreListener, SwipeRefreshLayout.OnRefreshListener {
+    //ViewPager.OnPageChangeListener,
     protected RecyclerView        mRecyclerView;
     protected SwipeRefreshLayout  mRefreshLayout;
     protected TextView            tvTitle;
@@ -230,7 +230,7 @@ public abstract class BaseTabDetailPager extends BaseMenuDetailPager implements 
         //setScrollDuration();
         mIndicator.setViewPager(mViewPager);
         mIndicator.setSnap(true);
-        mIndicator.setOnPageChangeListener(this);
+        //mIndicator.setOnPageChangeListener(this);
         mIndicator.onPageSelected(0);
         tvTitle.setText(mNewsData.get(0).ads.get(0).title);
 
@@ -386,8 +386,7 @@ public abstract class BaseTabDetailPager extends BaseMenuDetailPager implements 
             }
         });
 
-        HeaderAndFooterWrapper headerAndFooterWrapper = new HeaderAndFooterWrapper
-                (mMultiItemTypeAdapter);
+        HeaderAndFooterWrapper headerAndFooterWrapper = new HeaderAndFooterWrapper(mMultiItemTypeAdapter);
         headerAndFooterWrapper.addHeaderView(mHeaderView);
 
         mLoadmoreWrapper = new LoadmoreWrapper(headerAndFooterWrapper);
@@ -416,7 +415,7 @@ public abstract class BaseTabDetailPager extends BaseMenuDetailPager implements 
         requestData(getNewsUrl(index), true);
     }
 
-    @Override
+   /* @Override
     public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
 
     }
@@ -430,7 +429,7 @@ public abstract class BaseTabDetailPager extends BaseMenuDetailPager implements 
     @Override
     public void onPageScrollStateChanged(int state) {
 
-    }
+    }*/
 
     @Override
     public void onRefresh() {

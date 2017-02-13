@@ -142,7 +142,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="2dfd0c939d7b8ad1b50542d9614a9b58b70b7332">
+        sha1="cef1c3493177235f5299b0b1b2eee0bdfd0a7b13">
         <dex dex="E:\workspace\SmartCity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5f6cf3873ec1f558c3029dc3039ccb7521e3f9cb\classes.dex" />
     </item>
     <item
@@ -277,7 +277,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="a6370fee928f8934d9e97b120f78ab2a4f8f12d4">
+        sha1="ec27b57cfe14130c71fc52a40f3b422c82ecb784">
         <dex dex="E:\workspace\SmartCity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_09cfa34001e911e81b138fad9caba40dae33a311\classes.dex" />
     </item>
     <item

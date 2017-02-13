@@ -30,6 +30,7 @@ public abstract class BaseMenuDetailPager {
 	public BaseMenuDetailPager(Activity activity) {
 		mActivity = activity;
 		mRootView = initView();
+		initData();
 	}
 
 	/**

@@ -108,12 +108,12 @@
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable\\more_itemtop_press.xml"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobutton_route_bus.xml",
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable\\radiobutton_route_bus.xml"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_navigation_color_selector.xml",
