@@ -1,10 +1,5 @@
 package com.google.smartcity.ui.widget;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
-import com.google.smartcity.R;
-
 import android.content.Context;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;
@@ -20,21 +15,29 @@ import android.widget.ListView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
+import com.google.smartcity.R;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 /**
  * ============================================================
- * 
- * 版 权 ： Google互联网有限公司版权所有 (c) 2016
- * 
- * 作 者 : 陈冠杰
- * 
- * 版 本 ： 1.0
- * 
- * 创建日期 ： 2016-3-8 上午8:29:10
- * 
- * 描 述 ： 下拉刷新的listview
- * 
- * 修订历史 ：
- * 
+ * Copyright：Google有限公司版权所有 (c) 2017
+ * Author：   陈冠杰
+ * Email：    815712739@qq.com
+ * GitHub：   https://github.com/JackChen1999
+ * 博客：     http://blog.csdn.net/axi295309066
+ * 微博：     AndroidDeveloper
+ * <p>
+ * Project_Name：SmartCity
+ * Package_Name：com.google.smartcity
+ * Version：1.0
+ * time：2016/2/16 10:06
+ * des ：下拉刷新
+ * gitVersion：$Rev$
+ * updateAuthor：$Author$
+ * updateDate：$Date$
+ * updateDes：${TODO}
  * ============================================================
  **/
 public class RefreshListView extends ListView implements OnScrollListener,

@@ -1,16 +1,35 @@
 package com.google.smartcity.ui.widget.ConvenientBanner.adapter;
 
-import java.util.List;
+import android.support.v4.view.PagerAdapter;
+import android.view.View;
+import android.view.ViewGroup;
 
 import com.google.smartcity.R;
 import com.google.smartcity.ui.widget.ConvenientBanner.holder.CBViewHolderCreator;
 import com.google.smartcity.ui.widget.ConvenientBanner.holder.Holder;
 import com.google.smartcity.ui.widget.ConvenientBanner.view.CBLoopViewPager;
 
-import android.support.v4.view.PagerAdapter;
-import android.view.View;
-import android.view.ViewGroup;
-
+import java.util.List;
+/**
+ * ============================================================
+ * Copyright：Google有限公司版权所有 (c) 2017
+ * Author：   陈冠杰
+ * Email：    815712739@qq.com
+ * GitHub：   https://github.com/JackChen1999
+ * 博客：     http://blog.csdn.net/axi295309066
+ * 微博：     AndroidDeveloper
+ * <p>
+ * Project_Name：SmartCity
+ * Package_Name：com.google.smartcity
+ * Version：1.0
+ * time：2016/2/16 10:06
+ * des ：${TODO}
+ * gitVersion：$Rev$
+ * updateAuthor：$Author$
+ * updateDate：$Date$
+ * updateDes：${TODO}
+ * ============================================================
+ **/
 
 public class CBPageAdapter<T> extends PagerAdapter {
     protected List<T> mDatas;
