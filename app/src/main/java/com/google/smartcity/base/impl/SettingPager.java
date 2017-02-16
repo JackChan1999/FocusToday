@@ -1,12 +1,5 @@
 package com.google.smartcity.base.impl;
 
-import com.google.smartcity.R;
-import com.google.smartcity.base.BasePager;
-import com.google.smartcity.ui.activity.FeedbackActivity;
-import com.google.smartcity.ui.activity.LoginActivity;
-import com.google.smartcity.utils.SPUtils;
-import com.google.smartcity.utils.ToastUtils;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -17,6 +10,32 @@ import android.widget.Button;
 import android.widget.TableRow;
 import android.widget.TextView;
 
+import com.google.smartcity.R;
+import com.google.smartcity.base.BasePager;
+import com.google.smartcity.ui.activity.FeedbackActivity;
+import com.google.smartcity.ui.activity.LoginActivity;
+import com.google.smartcity.utils.SPUtils;
+import com.google.smartcity.utils.ToastUtils;
+/**
+ * ============================================================
+ * Copyright：Google有限公司版权所有 (c) 2017
+ * Author：   陈冠杰
+ * Email：    815712739@qq.com
+ * GitHub：   https://github.com/JackChen1999
+ * 博客：     http://blog.csdn.net/axi295309066
+ * 微博：     AndroidDeveloper
+ * <p>
+ * Project_Name：SmartCity
+ * Package_Name：com.google.smartcity
+ * Version：1.0
+ * time：2016/2/16 10:06
+ * des ：${TODO}
+ * gitVersion：$Rev$
+ * updateAuthor：$Author$
+ * updateDate：$Date$
+ * updateDes：${TODO}
+ * ============================================================
+ **/
 public class SettingPager extends BasePager implements OnClickListener {
 
 	private Button bt_login;

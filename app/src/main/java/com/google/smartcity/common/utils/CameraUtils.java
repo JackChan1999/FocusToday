@@ -1,25 +1,26 @@
 package com.google.smartcity.common.utils;
 
-import android.app.Activity;
-import android.content.ContentResolver;
-import android.content.Intent;
-import android.database.Cursor;
-import android.graphics.Bitmap;
-import android.net.Uri;
-import android.os.Bundle;
-import android.provider.MediaStore;
-
-import java.io.File;
-import java.io.IOException;
-
 /**
- * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/9/19
- *     desc  : 相机相关工具类
- * </pre>
- */
+ * ============================================================
+ * Copyright：Google有限公司版权所有 (c) 2017
+ * Author：   陈冠杰
+ * Email：    815712739@qq.com
+ * GitHub：   https://github.com/JackChen1999
+ * 博客：     http://blog.csdn.net/axi295309066
+ * 微博：     AndroidDeveloper
+ * <p>
+ * Project_Name：SmartCity
+ * Package_Name：com.google.smartcity
+ * Version：1.0
+ * time：2016/2/16 10:06
+ * des ：相机相关工具类
+ * gitVersion：$Rev$
+ * updateAuthor：$Author$
+ * updateDate：$Date$
+ * updateDes：${TODO}
+ * ============================================================
+ **/
+
 public class CameraUtils {
 
 //    private CameraUtils() {
