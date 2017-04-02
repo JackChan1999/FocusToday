@@ -13,7 +13,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_select_dialog_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
@@ -29,15 +29,15 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_bottom_navigation_item.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_content_include.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
@@ -53,7 +53,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\notification_action.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_detail_pager.xml",
@@ -65,11 +65,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_toolbar.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_channel.xml",
@@ -85,11 +85,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\SmartCity\\LRecyclerview_library\\unspecified\\res\\layout\\layout_recyclerview_list_footer.xml"
+        "source": "E:\\workspace\\SmartCity\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_list_footer.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_time.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
@@ -97,11 +97,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_text_input_password_icon.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\layout\\design_text_input_password_icon.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_train_message.xml",
@@ -121,7 +121,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_menu.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\layout\\design_navigation_menu.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_footer_loading.xml",
@@ -133,7 +133,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_network_error.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\SmartCity\\LRecyclerview_library\\unspecified\\res\\layout\\layout_recyclerview_list_footer_network_error.xml"
+        "source": "E:\\workspace\\SmartCity\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_list_footer_network_error.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_search.xml",
@@ -141,7 +141,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_petrolstation_details.xml",
@@ -153,11 +153,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_layout.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_header.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\SmartCity\\LRecyclerview_library\\unspecified\\res\\layout\\listview_header.xml"
+        "source": "E:\\workspace\\SmartCity\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\listview_header.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_delicacies.xml",
@@ -169,15 +169,15 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_bar.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_content.xml",
@@ -185,7 +185,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_loading.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\SmartCity\\LRecyclerview_library\\unspecified\\res\\layout\\layout_recyclerview_list_footer_loading.xml"
+        "source": "E:\\workspace\\SmartCity\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_list_footer_loading.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
@@ -197,19 +197,19 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_swipe_item_default.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\SmartCity\\LRecyclerview_library\\unspecified\\res\\layout\\layout_recyclerview_swipe_item_default.xml"
+        "source": "E:\\workspace\\SmartCity\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_swipe_item_default.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action_tombstone.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_setting.xml",
@@ -217,7 +217,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_dialog_title_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_useful_numbers.xml",
@@ -241,11 +241,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mediacontroller.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\SmartCity\\vitamio\\unspecified\\res\\layout\\mediacontroller.xml"
+        "source": "E:\\workspace\\SmartCity\\vitamio\\build\\intermediates\\bundles\\default\\res\\layout\\mediacontroller.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_custom_big.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\notification_template_custom_big.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
@@ -269,7 +269,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_date_change.xml",
@@ -281,11 +281,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_menu_item.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_air_flight_info.xml",
@@ -293,7 +293,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_header.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\SmartCity\\LRecyclerview_library\\unspecified\\res\\layout\\layout_recyclerview_header.xml"
+        "source": "E:\\workspace\\SmartCity\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_header.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_other.xml",
@@ -305,7 +305,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_restaurant.xml",
@@ -317,11 +317,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_item.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_footer_network_error.xml",
@@ -337,7 +337,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_item_subheader.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_expresscompany.xml",
@@ -353,7 +353,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_item_separator.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_price_gridview.xml",
@@ -361,7 +361,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_checkbalance.xml",
@@ -401,11 +401,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media_custom.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_end.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\SmartCity\\LRecyclerview_library\\unspecified\\res\\layout\\layout_recyclerview_list_footer_end.xml"
+        "source": "E:\\workspace\\SmartCity\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_list_footer_end.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_useful_numbers1.xml",
@@ -425,23 +425,23 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_layout_snackbar_include.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_item_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_other_channel_header.xml",
@@ -485,7 +485,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_layout_tab_icon.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_view.xml",
@@ -497,7 +497,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_icon_group.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_feedback.xml",
@@ -505,7 +505,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_footer_end.xml",
@@ -513,7 +513,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_view.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_search_view.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_train_details.xml",
@@ -528,6 +528,10 @@
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\layout\\base_pager.xml"
     },
     {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_videoplay.xml",
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\layout\\layout_videoplay.xml"
     },
@@ -537,7 +541,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_head.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\SmartCity\\LRecyclerview_library\\unspecified\\res\\layout\\pull_to_refresh_head.xml"
+        "source": "E:\\workspace\\SmartCity\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_head.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_pick_whellview_item.xml",
@@ -545,11 +549,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_header.xml",
@@ -561,19 +565,19 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_footer.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\SmartCity\\LRecyclerview_library\\unspecified\\res\\layout\\layout_recyclerview_footer.xml"
+        "source": "E:\\workspace\\SmartCity\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_footer.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_train_station_research.xml",
@@ -601,7 +605,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_lines_media.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
@@ -641,7 +645,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_layout_snackbar.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_pick_areacity.xml",
@@ -653,7 +657,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_video_hot.xml",
@@ -661,7 +665,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_menu_item_action_area.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\left_menu.xml",
@@ -693,7 +697,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_air_line_query.xml",
@@ -729,7 +733,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_train_message.xml",
@@ -737,11 +741,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_item_header.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_layout_tab_text.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_refresh_list.xml",

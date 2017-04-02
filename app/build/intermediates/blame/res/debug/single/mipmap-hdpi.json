@@ -12,12 +12,12 @@
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-hdpi\\icon_setting_bound.png"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_setting_feedback.png",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-hdpi\\icon_setting_feedback.png"
-    },
-    {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\govaffairs_press.png",
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-hdpi\\govaffairs_press.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_setting_feedback.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-hdpi\\icon_setting_feedback.png"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\common_listview_headview_red_arrow.png",

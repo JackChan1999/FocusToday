@@ -1,31 +1,31 @@
 [
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_clear_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_dialog_material_background.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_search_api_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_channel_n.xml",
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable\\bg_channel_n.xml"
     },
     {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_tab_smart_selector.xml",
@@ -36,8 +36,12 @@
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\drawable\\layout_bg.xml"
     },
     {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_frame.xml",
@@ -49,11 +53,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_snackbar_background.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_frame.xml",
@@ -65,11 +69,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
@@ -77,15 +81,15 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_icon_background.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_vector_test.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_yellow_bg.xml",
@@ -97,7 +101,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
@@ -113,7 +117,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_navigation_color_selector.xml",
@@ -121,19 +125,19 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_track_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_progress_horizontal_holo_dark.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\SmartCity\\vitamio\\unspecified\\res\\drawable\\scrubber_progress_horizontal_holo_dark.xml"
+        "source": "E:\\workspace\\SmartCity\\vitamio\\build\\intermediates\\bundles\\default\\res\\drawable\\scrubber_progress_horizontal_holo_dark.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_button.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\SmartCity\\vitamio\\unspecified\\res\\drawable\\mediacontroller_button.xml"
+        "source": "E:\\workspace\\SmartCity\\vitamio\\build\\intermediates\\bundles\\default\\res\\drawable\\mediacontroller_button.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
@@ -141,19 +145,19 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_tile_bg.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_tab_home_selector.xml",
@@ -161,15 +165,15 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg_low.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_tab_setting_selector.xml",
@@ -177,7 +181,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_menu_selector.xml",
@@ -185,7 +189,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_channel.xml",
@@ -197,7 +201,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_dialog.xml",
@@ -213,7 +217,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_tab_news_selector.xml",
@@ -221,7 +225,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_ok_bg.xml",
@@ -249,11 +253,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_check_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_progress_small.xml",
@@ -269,11 +273,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\navigation_empty_icon.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_textfield_search_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_itemmiddle_press.xml",
@@ -289,15 +293,15 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_radio_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_control_selector_holo.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\SmartCity\\vitamio\\unspecified\\res\\drawable\\scrubber_control_selector_holo.xml"
+        "source": "E:\\workspace\\SmartCity\\vitamio\\build\\intermediates\\bundles\\default\\res\\drawable\\scrubber_control_selector_holo.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
@@ -305,11 +309,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressloading.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\SmartCity\\LRecyclerview_library\\unspecified\\res\\drawable\\progressloading.xml"
+        "source": "E:\\workspace\\SmartCity\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\drawable\\progressloading.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading_progress.xml",
@@ -317,11 +321,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_edit_text_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_item_press.xml",
@@ -333,7 +337,7 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_fab_background.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobutton_route_car.xml",
@@ -349,11 +353,11 @@
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_text_cursor_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_material.xml"
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_point_darkgray.xml",

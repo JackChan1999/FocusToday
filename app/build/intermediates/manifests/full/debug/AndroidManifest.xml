@@ -25,6 +25,10 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
 
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.0" />
+
     <application
         android:name="com.google.smartcity.base.BaseApplication"
         android:allowBackup="true"
