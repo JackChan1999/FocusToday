@@ -1,10 +1,12 @@
 # SmartCity 智慧城市
 
-# 关于我
+# 关注我
 
 - Email：<815712739@qq.com>
 - CSDN博客：[Allen Iverson](http://blog.csdn.net/axi295309066)
 - 新浪微博：[AndroidDeveloper](http://weibo.com/u/1848214604?topnav=1&amp;wvr=6&amp;topsug=1&amp;is_all=1)
+- GitHub：[JackChen1999](https://github.com/JackChen1999)
+- GitBook：[alleniverson](https://www.gitbook.com/@alleniverson)
 
 # License
 
