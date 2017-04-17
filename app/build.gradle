@@ -37,6 +37,6 @@ dependencies {
     compile files('libs/juhe_sdk_v_2_2.jar')
     compile files('libs/juhe_yp_1_0.jar')
     compile project(':vitamio')
-    annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
     compile project(':LRecyclerview')
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
 }
