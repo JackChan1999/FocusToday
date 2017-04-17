@@ -1369,7 +1369,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="airline_search">航线查询</string>
-    <string name="app_name">智慧城市</string>
+    <string name="app_name">今日关注</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="battery_info_status_charging">正在充电</string>
     <string name="battery_info_status_charging_ac">正在通过交流电源充电</string>

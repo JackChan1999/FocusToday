@@ -2,7 +2,7 @@
 manifest
 ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:1:1-198:12
 	package
-		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:1:11-41
+		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:1:11-44
 		INJECTED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml
 		INJECTED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -100,7 +100,7 @@ MERGED from [com.android.support:support-compat:25.3.0] C:\Users\AllenIverson\.a
 	android:theme
 		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:25:9-40
 	android:name
-		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:21:9-45
+		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:21:9-68
 meta-data#com.thinkland.juheapi.openid
 ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:26:9-28:65
 	android:value
@@ -113,10 +113,10 @@ ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:29:9-31:55
 		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:31:13-53
 	android:name
 		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:30:13-52
-activity#com.google.smartcity.ui.activity.SplashActivity
+activity#com.jackchen.focustoday.ui.activity.SplashActivity
 ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:35:9-42:20
 	android:name
-		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:36:13-55
+		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:36:13-78
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:37:13-41:29
 action#android.intent.action.MAIN
@@ -127,34 +127,34 @@ category#android.intent.category.LAUNCHER
 ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:40:17-76
 	android:name
 		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:40:27-74
-activity#com.google.smartcity.ui.activity.GuideActivity
-ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:43:9-62
+activity#com.jackchen.focustoday.ui.activity.GuideActivity
+ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:43:9-85
 	android:name
-		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:43:19-60
-activity#com.google.smartcity.ui.activity.MainActivity
-ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:45:9-61
+		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:43:19-83
+activity#com.jackchen.focustoday.ui.activity.MainActivity
+ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:45:9-84
 	android:name
-		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:45:19-59
-activity#com.google.smartcity.ui.activity.NewsDetailActivity
-ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:46:9-67
+		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:45:19-82
+activity#com.jackchen.focustoday.ui.activity.NewsDetailActivity
+ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:46:9-90
 	android:name
-		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:46:19-65
-activity#com.google.smartcity.ui.activity.LoginActivity
-ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:47:9-62
+		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:46:19-88
+activity#com.jackchen.focustoday.ui.activity.LoginActivity
+ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:47:9-85
 	android:name
-		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:47:19-60
-activity#com.google.smartcity.ui.activity.FeedbackActivity
-ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:48:9-65
+		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:47:19-83
+activity#com.jackchen.focustoday.ui.activity.FeedbackActivity
+ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:48:9-88
 	android:name
-		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:48:19-63
-activity#com.google.smartcity.ui.activity.VideoPlayActivity
-ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:49:9-66
+		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:48:19-86
+activity#com.jackchen.focustoday.ui.activity.VideoPlayActivity
+ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:49:9-89
 	android:name
-		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:49:19-64
-activity#com.google.smartcity.ui.activity.ChannelActivity
+		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:49:19-87
+activity#com.jackchen.focustoday.ui.activity.ChannelActivity
 ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:50:9-54:20
 	android:name
-		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:50:19-62
+		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:50:19-85
 activity#com.thinkland.yellowpages.activity.YellowPageActivity
 ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:59:9-62:51
 	android:screenOrientation

@@ -91,7 +91,7 @@
                     android:background="#ffadadad" />
             </LinearLayout>
 
-            <com.google.smartcity.ui.widget.ListViewForScrollView
+            <com.jackchen.focustoday.ui.widget.ListViewForScrollView
                 android:id="@+id/news_list"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
@@ -136,7 +136,7 @@
                     android:background="#ffadadad" />
             </LinearLayout>
 
-            <com.google.smartcity.ui.widget.ListViewForScrollView
+            <com.jackchen.focustoday.ui.widget.ListViewForScrollView
                 android:id="@+id/democracy_list"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
@@ -181,7 +181,7 @@
                     android:background="#ffadadad" />
             </LinearLayout>
 
-            <com.google.smartcity.ui.widget.ListViewForScrollView
+            <com.jackchen.focustoday.ui.widget.ListViewForScrollView
                 android:id="@+id/policy_list"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
