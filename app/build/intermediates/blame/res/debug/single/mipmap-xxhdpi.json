@@ -4,12 +4,60 @@
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-xxhdpi\\video_normal.png"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\video_player_float_switch_full.png",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-xxhdpi\\video_player_float_switch_full.png"
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\video_press.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-xxhdpi\\video_press.png"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\video_back.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-xxhdpi\\video_back.png"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\pic.png",
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-xxhdpi\\pic.png"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\video_player_switch_float.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-xxhdpi\\video_player_switch_float.png"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\video_normal.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-xxhdpi\\video_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\news.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-xxhdpi\\news.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_account_circle.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_account_circle.png"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\pic.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-xxhdpi\\pic.png"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_home_white_24dp.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_home_white_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\video_player_play.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-xxhdpi\\video_player_play.png"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\video_player_pause.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-xxhdpi\\video_player_pause.png"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\photo.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-xxhdpi\\photo.png"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\video_player_more.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-xxhdpi\\video_player_more.png"
+    },
+    {
+        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\video_player_float_switch_full.png",
+        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-xxhdpi\\video_player_float_switch_full.png"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\video_press.png",
@@ -22,10 +70,6 @@
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\video_player_more.png",
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-xxhdpi\\video_player_more.png"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_account_circle.png",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_account_circle.png"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\video_player_switch_float.png",
@@ -48,11 +92,23 @@
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-xxhdpi\\video_back.png"
     },
     {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\video_player_download.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-xxhdpi\\video_player_download.png"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\video_player_float_switch_full.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-xxhdpi\\video_player_float_switch_full.png"
+    },
+    {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\photo.png",
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-xxhdpi\\photo.png"
     },
     {
         "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\news.png",
         "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-xxhdpi\\news.png"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_account_circle.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_account_circle.png"
     }
 ]
