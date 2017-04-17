@@ -2,9 +2,5 @@
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_navigation.xml",
         "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\menu\\bottom_navigation.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_navigation.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\menu\\bottom_navigation.xml"
     }
 ]

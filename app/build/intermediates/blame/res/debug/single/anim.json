@@ -1,141 +1,5 @@
 [
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_fab_out.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\anim\\slide_in_from_top.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\anim\\push_top_out.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
-        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\anim\\slide_out_to_top.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_snackbar_in.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
-        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_snackbar_in.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floating_action_button_hide.xml",
-        "source": "E:\\workspace\\SmartCity\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\anim\\floating_action_button_hide.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_fab_in.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
-        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_out.xml",
-        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\alpha_out.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
-        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\slide_in_from_top.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
-        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\push_top_in.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_in.xml",
-        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\alpha_in.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
-        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\edit_right_in.xml",
-        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\edit_right_in.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_fab_out.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_fab_in.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_out.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\anim\\alpha_out.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\edit_right_in.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\anim\\edit_right_in.xml"
-    },
-    {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\edit_right_out.xml",
         "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\edit_right_out.xml"
     },
@@ -146,6 +10,10 @@
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floating_action_button_show.xml",
@@ -164,79 +32,91 @@
         "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
         "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_out.xml",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\alpha_out.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
         "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\slide_out_to_top.xml"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\slide_in_from_top.xml"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\push_top_in.xml"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_in.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\anim\\alpha_in.xml"
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_in.xml",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\alpha_in.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\edit_right_in.xml",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\anim\\edit_right_in.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
         "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\edit_right_out.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\anim\\edit_right_out.xml"
-    },
-    {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\anim\\push_top_in.xml"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floating_action_button_show.xml",
-        "source": "E:\\workspace\\SmartCity\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\anim\\floating_action_button_show.xml"
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_fab_out.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
         "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\555ad9130bb066a660cbd042fbb9057bea695253\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     }
 ]

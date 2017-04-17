@@ -6,13 +6,5 @@
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\video_volumn_bg.png",
         "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-mdpi\\video_volumn_bg.png"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\workspace\\SmartCity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\video_volumn_bg.png",
-        "source": "E:\\workspace\\SmartCity\\app\\src\\main\\res\\mipmap-mdpi\\video_volumn_bg.png"
     }
 ]
