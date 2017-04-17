@@ -126,7 +126,6 @@ public abstract class BaseTabDetailPager extends BaseMenuDetailPager implements 
         tvTitle = (TextView) mHeaderView.findViewById(R.id.tv_title);
         mIndicator = (CirclePageIndicator) mHeaderView.findViewById(R.id.indicator);
         mViewPager = (ViewPager) mHeaderView.findViewById(R.id.vp_news);
-        setViewPagerAdapter();
     }
 
     @Override
@@ -200,6 +199,7 @@ public abstract class BaseTabDetailPager extends BaseMenuDetailPager implements 
                 mRefreshLayout.setRefreshing(false);
                 mNewsData.clear();
             }
+            setViewPagerAdapter();
             mNewsData.addAll(data);
             mAdsData.addAll(data.get(0).ads);
             mLoadmoreWrapper.notifyDataSetChanged();

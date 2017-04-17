@@ -1,4 +1,4 @@
-package com.google.smartcity;
+package com.jackchen.focustoday;
 
 import org.junit.Test;
 
