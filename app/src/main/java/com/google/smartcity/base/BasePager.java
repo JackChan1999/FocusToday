@@ -10,7 +10,7 @@ import com.google.smartcity.R;
 import com.google.smartcity.ui.activity.MainActivity;
 import com.google.smartcity.ui.widget.slidingmenu.SlidingMenu;
 
-import butterknife.Bind;
+import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
@@ -38,19 +38,19 @@ public class BasePager {
     public Activity mActivity;
     public View     mRootView;// 布局对象
 
-    @Bind(R.id.tv_title)
+    @BindView(R.id.tv_title)
     public TextView tvTitle;// 标题对象
 
-    @Bind(R.id.fl_content)
+    @BindView(R.id.fl_content)
     public FrameLayout flContent;// 内容
 
-    @Bind(R.id.btn_menu)
+    @BindView(R.id.btn_menu)
     public ImageButton btnMenu;// 菜单按钮
 
-    @Bind(R.id.btn_search)
+    @BindView(R.id.btn_search)
     public ImageButton btnSearch;// 搜索按钮
 
-    @Bind(R.id.btn_photo)
+    @BindView(R.id.btn_photo)
     public ImageButton btnPhoto;
 
     public boolean isLoading = false;

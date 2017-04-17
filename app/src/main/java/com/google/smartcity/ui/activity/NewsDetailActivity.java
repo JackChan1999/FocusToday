@@ -18,7 +18,7 @@ import android.widget.ProgressBar;
 
 import com.google.smartcity.R;
 
-import butterknife.Bind;
+import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
@@ -42,19 +42,19 @@ import butterknife.ButterKnife;
  * ============================================================
  **/
 public class NewsDetailActivity extends Activity implements OnClickListener {
-	@Bind(R.id.wv_web)
+	@BindView(R.id.wv_web)
 	WebView mWebView;
 
-	@Bind(R.id.btn_back)
+	@BindView(R.id.btn_back)
 	ImageButton btn_back;
 
-	@Bind(R.id.btn_share)
+	@BindView(R.id.btn_share)
 	ImageButton btn_share;
 
-	@Bind(R.id.btn_size)
+	@BindView(R.id.btn_size)
 	ImageButton btn_size;
 
-	@Bind(R.id.pb_progress)
+	@BindView(R.id.pb_progress)
 	ProgressBar pbProgress;
 
 	@Override

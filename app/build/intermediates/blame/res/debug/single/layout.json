@@ -9,7 +9,7 @@
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_network_error.xml",
-        "source": "E:\\workspace\\FocusToday\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_list_footer_network_error.xml"
+        "source": "E:\\workspace\\FocusToday\\LRecyclerview\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_list_footer_network_error.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_viewpager.xml",
@@ -48,12 +48,12 @@
         "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\layout\\item_illegal_details.xml"
     },
     {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_header.xml",
-        "source": "E:\\workspace\\FocusToday\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\listview_header.xml"
-    },
-    {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_loading.xml",
         "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_header.xml",
+        "source": "E:\\workspace\\FocusToday\\LRecyclerview\\build\\intermediates\\bundles\\default\\res\\layout\\listview_header.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_illegal_details.xml",
@@ -173,7 +173,7 @@
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_loading.xml",
-        "source": "E:\\workspace\\FocusToday\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_list_footer_loading.xml"
+        "source": "E:\\workspace\\FocusToday\\LRecyclerview\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_list_footer_loading.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_header.xml",
@@ -249,7 +249,7 @@
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_header.xml",
-        "source": "E:\\workspace\\FocusToday\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_header.xml"
+        "source": "E:\\workspace\\FocusToday\\LRecyclerview\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_header.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
@@ -257,7 +257,7 @@
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_head.xml",
-        "source": "E:\\workspace\\FocusToday\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_head.xml"
+        "source": "E:\\workspace\\FocusToday\\LRecyclerview\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_head.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_video_selection.xml",
@@ -372,6 +372,10 @@
         "source": "E:\\workspace\\FocusToday\\vitamio\\build\\intermediates\\bundles\\default\\res\\layout\\mediacontroller.xml"
     },
     {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_indicator_view.xml",
+        "source": "E:\\workspace\\FocusToday\\LRecyclerview\\build\\intermediates\\bundles\\default\\res\\layout\\layout_indicator_view.xml"
+    },
+    {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
         "source": "C:\\Users\\AllenIverson\\.android\\build-cache\\517f888fa781f59d921bb93e4f5f3a191b83b824\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
@@ -417,7 +421,7 @@
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_footer.xml",
-        "source": "E:\\workspace\\FocusToday\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_footer.xml"
+        "source": "E:\\workspace\\FocusToday\\LRecyclerview\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_footer.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hospital.xml",
@@ -457,7 +461,7 @@
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer.xml",
-        "source": "E:\\workspace\\FocusToday\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_list_footer.xml"
+        "source": "E:\\workspace\\FocusToday\\LRecyclerview\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_list_footer.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
@@ -660,12 +664,12 @@
         "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\layout\\base_pager.xml"
     },
     {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_end.xml",
-        "source": "E:\\workspace\\FocusToday\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_list_footer_end.xml"
-    },
-    {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_expressquery.xml",
         "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\layout\\item_expressquery.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_end.xml",
+        "source": "E:\\workspace\\FocusToday\\LRecyclerview\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_list_footer_end.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
@@ -697,7 +701,7 @@
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_swipe_item_default.xml",
-        "source": "E:\\workspace\\FocusToday\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_swipe_item_default.xml"
+        "source": "E:\\workspace\\FocusToday\\LRecyclerview\\build\\intermediates\\bundles\\default\\res\\layout\\layout_recyclerview_swipe_item_default.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_route.xml",

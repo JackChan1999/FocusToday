@@ -14,7 +14,7 @@ import com.google.smartcity.R;
 import com.google.smartcity.utils.PackageUtils;
 import com.google.smartcity.utils.SPUtils;
 
-import butterknife.Bind;
+import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
@@ -38,7 +38,7 @@ import butterknife.ButterKnife;
  * ============================================================
  **/
 public class SplashActivity extends Activity {
-	@Bind(R.id.rl_root)
+	@BindView(R.id.rl_root)
 	RelativeLayout rl_root;
 
 	@Override

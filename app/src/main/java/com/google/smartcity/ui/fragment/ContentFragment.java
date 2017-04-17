@@ -21,7 +21,7 @@ import com.google.smartcity.ui.widget.viewpager.NoScrollViewPager;
 import java.util.ArrayList;
 import java.util.List;
 
-import butterknife.Bind;
+import butterknife.BindView;
 import butterknife.ButterKnife;
 /**
  * ============================================================
@@ -45,10 +45,10 @@ import butterknife.ButterKnife;
  **/
 public class ContentFragment extends BaseFragment {
 
-    @Bind(R.id.vp_content)
+    @BindView(R.id.vp_content)
     NoScrollViewPager mViewPager;
 
-    @Bind(R.id.bottom_navigation)
+    @BindView(R.id.bottom_navigation)
     BottomNavigationView mBottomNavigation;
 
     MenuItem prevMenuItem;

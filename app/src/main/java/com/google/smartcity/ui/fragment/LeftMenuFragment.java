@@ -1,24 +1,24 @@
  package com.google.smartcity.ui.fragment;
 
  import android.content.Context;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.AdapterView;
-import android.widget.AdapterView.OnItemClickListener;
-import android.widget.ListView;
+ import android.view.LayoutInflater;
+ import android.view.View;
+ import android.view.ViewGroup;
+ import android.widget.AdapterView;
+ import android.widget.AdapterView.OnItemClickListener;
+ import android.widget.ListView;
 
-import com.google.smartcity.R;
-import com.google.smartcity.base.impl.NewsCenterPager;
-import com.google.smartcity.ui.activity.MainActivity;
-import com.google.smartcity.ui.adapter.abslistview.CommonAdapter;
-import com.google.smartcity.ui.adapter.abslistview.ViewHolder;
-import com.google.smartcity.ui.widget.slidingmenu.SlidingMenu;
+ import com.google.smartcity.R;
+ import com.google.smartcity.base.impl.NewsCenterPager;
+ import com.google.smartcity.ui.activity.MainActivity;
+ import com.google.smartcity.ui.adapter.abslistview.CommonAdapter;
+ import com.google.smartcity.ui.adapter.abslistview.ViewHolder;
+ import com.google.smartcity.ui.widget.slidingmenu.SlidingMenu;
 
-import java.util.List;
+ import java.util.List;
 
-import butterknife.Bind;
-import butterknife.ButterKnife;
+ import butterknife.BindView;
+ import butterknife.ButterKnife;
  /**
   * ============================================================
   * Copyright：Google有限公司版权所有 (c) 2017
@@ -40,7 +40,7 @@ import butterknife.ButterKnife;
   * ============================================================
   **/
 public class LeftMenuFragment extends BaseFragment {
-	@Bind(R.id.list_view)
+	@BindView(R.id.list_view)
 	ListView mListView;
 
 	private MenuAdapter mAdapter;

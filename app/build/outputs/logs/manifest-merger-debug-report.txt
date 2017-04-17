@@ -73,10 +73,11 @@ ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:18:5-79
 		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:18:22-77
 application
 ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:20:5-196:19
-MERGED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:15:5-22:19
 MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\AllenIverson\.android\build-cache\10b82e8a037a2ff3dfad4defac7e8365b03ed867\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\AllenIverson\.android\build-cache\cd4a0b689935e53caa4d86594ab5ca7d23b37a36\output\AndroidManifest.xml:26:5-20
-MERGED from [FocusToday:LRecyclerview_library:unspecified] E:\workspace\FocusToday\LRecyclerview_library\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\AllenIverson\.android\build-cache\5ba3990c3a0f2bd334d75bdb5e0ec564d8c57ff7\output\AndroidManifest.xml:9:5-20
+MERGED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:15:5-22:19
+MERGED from [FocusToday:LRecyclerview:unspecified] E:\workspace\FocusToday\LRecyclerview\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
 MERGED from [com.android.support:design:25.3.0] C:\Users\AllenIverson\.android\build-cache\555ad9130bb066a660cbd042fbb9057bea695253\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\AllenIverson\.android\build-cache\517f888fa781f59d921bb93e4f5f3a191b83b824\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\AllenIverson\.android\build-cache\035f3eb234f80fce8eacc1dfb25fddb019a559c3\output\AndroidManifest.xml:26:5-20
@@ -91,7 +92,7 @@ MERGED from [com.android.support:support-compat:25.3.0] C:\Users\AllenIverson\.a
 	android:label
 		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:24:9-41
 	android:supportsRtl
-		ADDED from [FocusToday:LRecyclerview_library:unspecified] E:\workspace\FocusToday\LRecyclerview_library\build\intermediates\bundles\default\AndroidManifest.xml:14:9-35
+		ADDED from [FocusToday:LRecyclerview:unspecified] E:\workspace\FocusToday\LRecyclerview\build\intermediates\bundles\default\AndroidManifest.xml:14:9-35
 	android:allowBackup
 		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:22:9-35
 	android:icon
@@ -404,10 +405,12 @@ ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:190:9-194:19
 		ADDED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml:191:13-48
 uses-sdk
 INJECTED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\AllenIverson\.android\build-cache\10b82e8a037a2ff3dfad4defac7e8365b03ed867\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\AllenIverson\.android\build-cache\cd4a0b689935e53caa4d86594ab5ca7d23b37a36\output\AndroidManifest.xml:20:5-43
-MERGED from [FocusToday:LRecyclerview_library:unspecified] E:\workspace\FocusToday\LRecyclerview_library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\AllenIverson\.android\build-cache\3d87defdd5d36e11e291fefcc011a86ed3596956\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\AllenIverson\.android\build-cache\5ba3990c3a0f2bd334d75bdb5e0ec564d8c57ff7\output\AndroidManifest.xml:7:5-43
+MERGED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [FocusToday:LRecyclerview:unspecified] E:\workspace\FocusToday\LRecyclerview\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:25.3.0] C:\Users\AllenIverson\.android\build-cache\555ad9130bb066a660cbd042fbb9057bea695253\output\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\AllenIverson\.android\build-cache\517f888fa781f59d921bb93e4f5f3a191b83b824\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\AllenIverson\.android\build-cache\035f3eb234f80fce8eacc1dfb25fddb019a559c3\output\AndroidManifest.xml:20:5-44
@@ -428,22 +431,6 @@ MERGED from [com.android.support:support-compat:25.3.0] C:\Users\AllenIverson\.a
 	android:minSdkVersion
 		INJECTED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml
 		INJECTED from E:\workspace\FocusToday\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:11:5-68
-	android:name
-		ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:11:22-65
-activity#io.vov.vitamio.activity.InitActivity
-ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:16:9-21:63
-	android:launchMode
-		ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:19:13-43
-	android:windowSoftInputMode
-		ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:21:13-60
-	android:configChanges
-		ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:18:13-113
-	android:theme
-		ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:20:13-60
-	android:name
-		ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:17:13-64
 meta-data#android.support.VERSION
 ADDED from [com.android.support:cardview-v7:25.3.0] C:\Users\AllenIverson\.android\build-cache\10b82e8a037a2ff3dfad4defac7e8365b03ed867\output\AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\AllenIverson\.android\build-cache\cd4a0b689935e53caa4d86594ab5ca7d23b37a36\output\AndroidManifest.xml:22:5-24:34
@@ -463,3 +450,19 @@ MERGED from [com.android.support:support-compat:25.3.0] C:\Users\AllenIverson\.a
 		ADDED from [com.android.support:cardview-v7:25.3.0] C:\Users\AllenIverson\.android\build-cache\10b82e8a037a2ff3dfad4defac7e8365b03ed867\output\AndroidManifest.xml:24:9-31
 	android:name
 		ADDED from [com.android.support:cardview-v7:25.3.0] C:\Users\AllenIverson\.android\build-cache\10b82e8a037a2ff3dfad4defac7e8365b03ed867\output\AndroidManifest.xml:23:9-47
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:11:22-65
+activity#io.vov.vitamio.activity.InitActivity
+ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:16:9-21:63
+	android:launchMode
+		ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:19:13-43
+	android:windowSoftInputMode
+		ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:21:13-60
+	android:configChanges
+		ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:18:13-113
+	android:theme
+		ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:20:13-60
+	android:name
+		ADDED from [FocusToday:vitamio:unspecified] E:\workspace\FocusToday\vitamio\build\intermediates\bundles\default\AndroidManifest.xml:17:13-64

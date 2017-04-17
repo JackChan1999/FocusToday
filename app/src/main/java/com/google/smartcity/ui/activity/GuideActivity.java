@@ -22,7 +22,7 @@ import com.google.smartcity.utils.SPUtils;
 import java.util.ArrayList;
 import java.util.List;
 
-import butterknife.Bind;
+import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
@@ -51,16 +51,16 @@ public class GuideActivity extends Activity {
 			R.mipmap.guide_2, R.mipmap.guide_3, };
 	private List<ImageView> mImageViewList;
 
-	@Bind(R.id.ll_point_guide)
+	@BindView(R.id.ll_point_guide)
 	 LinearLayout llPointGroup;
 
-	@Bind(R.id.view_red_point)
+	@BindView(R.id.view_red_point)
 	 View view_red_point;
 
-	@Bind(R.id.vp_guide)
+	@BindView(R.id.vp_guide)
 	 ViewPager vpGuide;
 
-	@Bind(R.id.btn_start)
+	@BindView(R.id.btn_start)
 	 Button btn_start;
 
 	private int mPointWith;// 圆点间距

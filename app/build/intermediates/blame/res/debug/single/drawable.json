@@ -329,7 +329,7 @@
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressloading.xml",
-        "source": "E:\\workspace\\FocusToday\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\drawable\\progressloading.xml"
+        "source": "E:\\workspace\\FocusToday\\LRecyclerview\\build\\intermediates\\bundles\\default\\res\\drawable\\progressloading.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_itemtop_press.xml",

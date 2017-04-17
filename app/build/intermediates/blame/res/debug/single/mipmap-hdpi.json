@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\home_press.png",
-        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-hdpi\\home_press.png"
-    },
-    {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_150.png",
         "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-hdpi\\icon_150.png"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\home_press.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-hdpi\\home_press.png"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\guide_3.png",
@@ -56,12 +56,12 @@
         "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-hdpi\\icon_setting_textsize.png"
     },
     {
-        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_setting_good.png",
-        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-hdpi\\icon_setting_good.png"
-    },
-    {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_page_indicator_focused.png",
         "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-hdpi\\ic_page_indicator_focused.png"
+    },
+    {
+        "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_setting_good.png",
+        "source": "E:\\workspace\\FocusToday\\app\\src\\main\\res\\mipmap-hdpi\\icon_setting_good.png"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\govaffairs.png",

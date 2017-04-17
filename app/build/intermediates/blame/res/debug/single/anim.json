@@ -17,11 +17,11 @@
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floating_action_button_show.xml",
-        "source": "E:\\workspace\\FocusToday\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\anim\\floating_action_button_show.xml"
+        "source": "E:\\workspace\\FocusToday\\LRecyclerview\\build\\intermediates\\bundles\\default\\res\\anim\\floating_action_button_show.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floating_action_button_hide.xml",
-        "source": "E:\\workspace\\FocusToday\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\anim\\floating_action_button_hide.xml"
+        "source": "E:\\workspace\\FocusToday\\LRecyclerview\\build\\intermediates\\bundles\\default\\res\\anim\\floating_action_button_hide.xml"
     },
     {
         "merged": "E:\\workspace\\FocusToday\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",

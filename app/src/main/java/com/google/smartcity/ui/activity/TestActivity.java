@@ -14,7 +14,7 @@ import android.widget.TextView;
 
 import com.google.smartcity.R;
 
-import butterknife.Bind;
+import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
@@ -39,10 +39,10 @@ import butterknife.ButterKnife;
  **/
 public class TestActivity extends FragmentActivity {
 
-    @Bind(R.id.vp_content)
+    @BindView(R.id.vp_content)
     ViewPager mViewPager;
 
-    @Bind(R.id.bottom_navigation)
+    @BindView(R.id.bottom_navigation)
     BottomNavigationView mBottomNavigation;
 
     MenuItem prevMenuItem;

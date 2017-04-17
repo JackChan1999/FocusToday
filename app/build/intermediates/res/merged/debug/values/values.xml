@@ -682,36 +682,7 @@
     <color name="white">#ffffff</color>
     <color name="withoutColoredBackground">#757575</color>
     <color name="yellow">#fece00</color>
-    <declare-styleable name="AVLoadingIndicatorView"><attr name="indicator">
-            <flag name="BallPulse" value="0"/>
-            <flag name="BallGridPulse" value="1"/>
-            <flag name="BallClipRotate" value="2"/>
-            <flag name="BallClipRotatePulse" value="3"/>
-            <flag name="SquareSpin" value="4"/>
-            <flag name="BallClipRotateMultiple" value="5"/>
-            <flag name="BallPulseRise" value="6"/>
-            <flag name="BallRotate" value="7"/>
-            <flag name="CubeTransition" value="8"/>
-            <flag name="BallZigZag" value="9"/>
-            <flag name="BallZigZagDeflect" value="10"/>
-            <flag name="BallTrianglePath" value="11"/>
-            <flag name="BallScale" value="12"/>
-            <flag name="LineScale" value="13"/>
-            <flag name="LineScaleParty" value="14"/>
-            <flag name="BallScaleMultiple" value="15"/>
-            <flag name="BallPulseSync" value="16"/>
-            <flag name="BallBeat" value="17"/>
-            <flag name="LineScalePulseOut" value="18"/>
-            <flag name="LineScalePulseOutRapid" value="19"/>
-            <flag name="BallScaleRipple" value="20"/>
-            <flag name="BallScaleRippleMultiple" value="21"/>
-            <flag name="BallSpinFadeLoader" value="22"/>
-            <flag name="LineSpinFadeLoader" value="23"/>
-            <flag name="TriangleSkewSpin" value="24"/>
-            <flag name="Pacman" value="25"/>
-            <flag name="BallGridBeat" value="26"/>
-            <flag name="SemiCircleSpin" value="27"/>
-        </attr><attr format="color" name="indicator_color"/></declare-styleable>
+    <declare-styleable name="AVLoadingIndicatorView"><attr format="dimension" name="minWidth"/><attr format="dimension" name="maxWidth"/><attr format="dimension" name="minHeight"/><attr format="dimension" name="maxHeight"/><attr format="string" name="indicatorName"/><attr format="color" name="indicatorColor"/></declare-styleable>
     <declare-styleable name="ActionBar"><attr name="navigationMode">
             
             <enum name="normal" value="0"/>
@@ -1596,6 +1567,27 @@
     <string name="vitamio_init_decoders">Initializing decoders…</string>
     <string name="vitamio_library_app_name">VitamioLibrary</string>
     <string name="zj_table">值机柜台</string>
+    <style name="AVLoadingIndicatorView">
+        <item name="minWidth">48dip</item>
+        <item name="maxWidth">48dip</item>
+        <item name="minHeight">48dip</item>
+        <item name="maxHeight">48dip</item>
+        <item name="indicatorName">LineSpinFadeLoaderIndicator</item>
+    </style>
+    <style name="AVLoadingIndicatorView.Large">
+        <item name="minWidth">72dip</item>
+        <item name="maxWidth">72dip</item>
+        <item name="minHeight">72dip</item>
+        <item name="maxHeight">72dip</item>
+        <item name="indicatorName">LineSpinFadeLoaderIndicator</item>
+    </style>
+    <style name="AVLoadingIndicatorView.Small">
+        <item name="minWidth">36dip</item>
+        <item name="maxWidth">36dip</item>
+        <item name="minHeight">36dip</item>
+        <item name="maxHeight">36dip</item>
+        <item name="indicatorName">LineSpinFadeLoaderIndicator</item>
+    </style>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

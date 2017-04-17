@@ -127,7 +127,7 @@ public class VideoHotFragmentTest extends Fragment implements OnRefreshListener,
         if (!isLoadMore) {
             if (isRefresh) {
                 isRefresh = false;
-                mRecyclerView.refreshComplete();
+                mRecyclerView.refreshComplete(20);
                 mData.clear();
                 mData.addAll(data);
                 mAdapter.notifyDataSetChanged();

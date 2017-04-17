@@ -24,7 +24,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import butterknife.Bind;
+import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
@@ -50,10 +50,10 @@ import butterknife.OnClick;
  **/
 public class NewsMenuDetailPager extends BaseMenuDetailPager implements OnPageChangeListener {
 
-	@Bind(R.id.vp_menu_detail)
+	@BindView(R.id.vp_menu_detail)
 	ViewPager mViewPager;
 
-	@Bind(R.id.tab_layout)
+	@BindView(R.id.tab_layout)
 	TabLayout mTabLayout;
 
 	private ArrayList<BaseTabDetailPager> mPagerList;

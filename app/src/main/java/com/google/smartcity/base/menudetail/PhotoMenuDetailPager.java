@@ -20,7 +20,7 @@ import com.google.smartcity.utils.UIUtils;
 
 import java.util.ArrayList;
 
-import butterknife.Bind;
+import butterknife.BindView;
 import butterknife.ButterKnife;
 import okhttp3.Call;
 
@@ -45,7 +45,7 @@ import okhttp3.Call;
  * ============================================================
  **/
 public class PhotoMenuDetailPager extends BaseMenuDetailPager {
-	@Bind(R.id.recyclerview)
+	@BindView(R.id.recyclerview)
 	RecyclerView mRecyclerView;
 
 	private ArrayList<PhotoInfo> mNews;
