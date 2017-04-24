@@ -1,1 +1,1 @@
-include ':app', ':vitamio', ':LRecyclerview_library'
+include ':app', ':vitamio', ':LRecyclerview'

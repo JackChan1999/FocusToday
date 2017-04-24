@@ -37,5 +37,5 @@ dependencies {
     compile files('libs/juhe_sdk_v_2_2.jar')
     compile files('libs/juhe_yp_1_0.jar')
     compile project(':vitamio')
-    compile project(':LRecyclerview_library')
+    compile project(':LRecyclerview')
 }
