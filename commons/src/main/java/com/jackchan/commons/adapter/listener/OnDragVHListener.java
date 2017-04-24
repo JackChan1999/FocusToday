@@ -1,4 +1,4 @@
-package com.jackchan.focustoday.ui.widget.itemtouchhelper;
+package com.jackchan.commons.adapter.listener;
 
 /**
  * ============================================================

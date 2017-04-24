@@ -5,6 +5,9 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.StaggeredGridLayoutManager;
 import android.support.v7.widget.helper.ItemTouchHelper;
 
+import com.jackchan.commons.adapter.listener.OnDragVHListener;
+import com.jackchan.commons.adapter.listener.OnItemMoveListener;
+
 /**
  * ============================================================
  * Copyright：Google有限公司版权所有 (c) 2017

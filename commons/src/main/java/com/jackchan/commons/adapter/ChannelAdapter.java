@@ -17,9 +17,9 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.jackchan.focustoday.R;
-import com.jackchan.focustoday.ui.widget.itemtouchhelper.OnDragVHListener;
-import com.jackchan.focustoday.ui.widget.itemtouchhelper.OnItemMoveListener;
+import com.jackchan.commons.R;
+import com.jackchan.commons.adapter.listener.OnDragVHListener;
+import com.jackchan.commons.adapter.listener.OnItemMoveListener;
 
 import java.util.List;
 
