@@ -53,8 +53,8 @@ import android.util.Log;
  * time：2016/4/24 10:50
  * des ：封装先加载图片bound，计算出inSmallSize之后再加载图片的逻辑操作
  * gitVersion：2.12.0.windows.1
- * updateAuthor：$Author$
- * updateDate：$Date$
+ * updateAuthor：JackChan
+ * updateDate：2016-05-01
  * updateDes：${TODO}
  * ============================================================
  */

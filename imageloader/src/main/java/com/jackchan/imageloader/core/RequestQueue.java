@@ -47,8 +47,8 @@ import java.util.concurrent.atomic.AtomicInteger;
  * time：2016/4/24 10:50
  * des ：请求队列, 使用优先队列,使得请求可以按照优先级进行处理. [ Thread Safe ]
  * gitVersion：2.12.0.windows.1
- * updateAuthor：$Author$
- * updateDate：$Date$
+ * updateAuthor：JackChan
+ * updateDate：2016-05-01
  * updateDes：${TODO}
  * ============================================================
  */

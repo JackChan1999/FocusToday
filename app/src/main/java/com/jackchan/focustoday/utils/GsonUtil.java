@@ -3,7 +3,7 @@ package com.jackchan.focustoday.utils;
 import com.google.gson.Gson;
 import com.google.gson.JsonElement;
 import com.google.gson.reflect.TypeToken;
-import com.jackchan.focustoday.utils.typebuilder.TypeBuilder;
+import com.jackchan.commons.typebuilder.TypeBuilder;
 
 import java.lang.reflect.Type;
 import java.util.List;

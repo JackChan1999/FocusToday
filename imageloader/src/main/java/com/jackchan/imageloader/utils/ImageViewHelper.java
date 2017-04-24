@@ -45,8 +45,8 @@ import java.lang.reflect.Field;
  * time：2016/4/24 10:50
  * des ：${TODO}
  * gitVersion：2.12.0.windows.1
- * updateAuthor：$Author$
- * updateDate：$Date$
+ * updateAuthor：JackChan
+ * updateDate：2016-05-01
  * updateDes：${TODO}
  * ============================================================
  */

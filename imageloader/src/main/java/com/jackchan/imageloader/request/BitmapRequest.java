@@ -50,8 +50,8 @@ import java.lang.ref.WeakReference;
  * time：2016/4/24 10:50
  * des ：网络请求类. 注意GET和DELETE不能传递参数,因为其请求的性质所致,用户可以将参数构建到url后传递进来到Request中.
  * gitVersion：2.12.0.windows.1
- * updateAuthor：$Author$
- * updateDate：$Date$
+ * updateAuthor：JackChan
+ * updateDate：2016-05-01
  * updateDes：${TODO}
  * ============================================================
  */

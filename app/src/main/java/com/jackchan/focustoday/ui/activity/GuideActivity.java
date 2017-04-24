@@ -14,7 +14,7 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout.LayoutParams;
 
 import com.jackchan.focustoday.R;
-import com.jackchan.focustoday.ui.adapter.BasePagerAdapter;
+import com.jackchan.commons.adapter.BasePagerAdapter;
 import com.jackchan.focustoday.utils.DensityUtils;
 import com.jackchan.focustoday.utils.PackageUtils;
 import com.jackchan.focustoday.utils.SPUtils;

@@ -53,8 +53,8 @@ import com.jackchan.imageloader.request.BitmapRequest;
  *       加载之后直接更新UI，无需用户干预.如果用户设置了缓存策略,那么会将加载到的图片缓存起来.
  *       用户也可以设置加载策略，例如顺序加载{@see SerialPolicy}和逆向加载{@see ReversePolicy}.
  * gitVersion：2.12.0.windows.1
- * updateAuthor：$Author$
- * updateDate：$Date$
+ * updateAuthor：JackChan
+ * updateDate：2016-05-01
  * updateDes：${TODO}
  * ============================================================
  */

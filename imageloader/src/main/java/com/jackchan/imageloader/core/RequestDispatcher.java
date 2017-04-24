@@ -47,8 +47,8 @@ import java.util.concurrent.BlockingQueue;
  * time：2016/4/24 10:50
  * des ：网络请求Dispatcher,继承自Thread,从网络请求队列中循环读取请求并且执行
  * gitVersion：2.12.0.windows.1
- * updateAuthor：$Author$
- * updateDate：$Date$
+ * updateAuthor：JackChan
+ * updateDate：2016-05-01
  * updateDes：${TODO}
  * ============================================================
  */

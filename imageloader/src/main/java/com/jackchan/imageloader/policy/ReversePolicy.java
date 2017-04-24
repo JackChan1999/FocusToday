@@ -40,8 +40,8 @@ package com.jackchan.imageloader.policy;
  * time：2016/4/24 10:50
  * des ：逆序加载策略,即从最后加入队列的请求进行加载
  * gitVersion：2.12.0.windows.1
- * updateAuthor：$Author$
- * updateDate：$Date$
+ * updateAuthor：JackChan
+ * updateDate：2016-05-01
  * updateDes：${TODO}
  * ============================================================
  */

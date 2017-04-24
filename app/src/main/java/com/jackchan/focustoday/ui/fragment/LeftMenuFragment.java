@@ -11,8 +11,8 @@
  import com.jackchan.focustoday.R;
  import com.jackchan.focustoday.base.impl.NewsCenterPager;
  import com.jackchan.focustoday.ui.activity.MainActivity;
- import com.jackchan.focustoday.ui.adapter.abslistview.CommonAdapter;
- import com.jackchan.focustoday.ui.adapter.abslistview.ViewHolder;
+ import com.jackchan.commons.adapter.abslistview.CommonAdapter;
+ import com.jackchan.commons.adapter.abslistview.ViewHolder;
  import com.jackchan.focustoday.ui.widget.slidingmenu.SlidingMenu;
 
  import java.util.List;

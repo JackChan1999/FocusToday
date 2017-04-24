@@ -26,10 +26,10 @@ import com.jackchan.focustoday.bean.Video;
 import com.jackchan.focustoday.http.RequestUrl;
 import com.jackchan.focustoday.http.VolleyUtil;
 import com.jackchan.focustoday.ui.activity.VideoPlayActivity;
-import com.jackchan.focustoday.ui.adapter.recyclerview.CommonAdapter;
-import com.jackchan.focustoday.ui.adapter.recyclerview.MultiItemTypeAdapter;
-import com.jackchan.focustoday.ui.adapter.recyclerview.base.ViewHolder;
-import com.jackchan.focustoday.ui.adapter.recyclerview.wrapper.LoadmoreWrapper;
+import com.jackchan.commons.adapter.recyclerview.CommonAdapter;
+import com.jackchan.commons.adapter.recyclerview.MultiItemTypeAdapter;
+import com.jackchan.commons.adapter.recyclerview.base.ViewHolder;
+import com.jackchan.commons.adapter.recyclerview.wrapper.LoadmoreWrapper;
 
 import java.util.List;
 

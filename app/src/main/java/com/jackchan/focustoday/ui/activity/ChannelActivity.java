@@ -15,7 +15,7 @@ import android.widget.Toast;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.jackchan.focustoday.R;
-import com.jackchan.focustoday.ui.adapter.ChannelAdapter;
+import com.jackchan.commons.adapter.ChannelAdapter;
 import com.jackchan.focustoday.ui.widget.itemtouchhelper.ItemDragHelperCallback;
 import com.jackchan.focustoday.utils.CommonUtil;
 import com.jackchan.focustoday.utils.GsonUtil;

@@ -42,8 +42,8 @@ import java.util.Map;
  * time：2016/4/24 10:50
  * des ：加载管理器
  * gitVersion：2.12.0.windows.1
- * updateAuthor：$Author$
- * updateDate：$Date$
+ * updateAuthor：JackChan
+ * updateDate：2016-05-01
  * updateDes：${TODO}
  * ============================================================
  */

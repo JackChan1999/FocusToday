@@ -45,8 +45,8 @@ import com.jackchan.imageloader.request.BitmapRequest;
  * des ：请求缓存接口,图片缓存抽象类,具体的子类有不使用缓存{@see NoCache}、内存缓存{@see MemoryCache}、
  *       sd卡缓存{@see DiskCache}以及内存和sd卡双缓存{@see DoubleCache}
  * gitVersion：2.12.0.windows.1
- * updateAuthor：$Author$
- * updateDate：$Date$
+ * updateAuthor：JackChan
+ * updateDate：2016-05-01
  * updateDes：${TODO}
  * ============================================================
  */

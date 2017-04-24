@@ -15,7 +15,7 @@ import com.jackchan.focustoday.base.impl.NewsCenterPager;
 import com.jackchan.focustoday.base.impl.PhotoPager;
 import com.jackchan.focustoday.base.impl.SettingPager;
 import com.jackchan.focustoday.base.impl.VideoPager;
-import com.jackchan.focustoday.ui.adapter.BasePagerAdapter;
+import com.jackchan.commons.adapter.BasePagerAdapter;
 import com.jackchan.focustoday.ui.widget.viewpager.NoScrollViewPager;
 
 import java.util.ArrayList;

@@ -39,8 +39,8 @@ package com.jackchan.imageloader.config;
  * time：2016/4/24 10:50
  * des ：加载图片时的loading资源以及加载失败的图片
  * gitVersion：2.12.0.windows.1
- * updateAuthor：$Author$
- * updateDate：$Date$
+ * updateAuthor：JackChan
+ * updateDate：2016-05-01
  * updateDes：${TODO}
  * ============================================================
  */

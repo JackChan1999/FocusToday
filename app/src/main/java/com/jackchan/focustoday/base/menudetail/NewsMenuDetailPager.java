@@ -16,7 +16,7 @@ import com.jackchan.focustoday.base.BaseTabDetailPager;
 import com.jackchan.focustoday.factory.TabNewsFactory;
 import com.jackchan.focustoday.ui.activity.ChannelActivity;
 import com.jackchan.focustoday.ui.activity.MainActivity;
-import com.jackchan.focustoday.ui.adapter.BasePagerAdapter;
+import com.jackchan.commons.adapter.BasePagerAdapter;
 import com.jackchan.focustoday.ui.widget.slidingmenu.SlidingMenu;
 import com.jackchan.focustoday.utils.CommonUtil;
 
