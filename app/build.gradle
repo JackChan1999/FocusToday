@@ -39,4 +39,8 @@ dependencies {
     compile project(':vitamio')
     compile project(':recyclerview')
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
+    compile project(':commons')
+    compile project(':eventbus')
+    compile project(':httputils')
+    compile project(':imageloader')
 }

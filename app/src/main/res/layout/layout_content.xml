@@ -18,7 +18,7 @@
             android:fitsSystemWindows="true"
             android:visibility="gone" />
 
-        <com.jackchen.focustoday.ui.widget.slidingmenu.SlidingMenu
+        <com.jackchan.focustoday.ui.widget.slidingmenu.SlidingMenu
             android:id="@id/slidingmenu"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

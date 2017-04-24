@@ -1,4 +1,4 @@
-<manifest package="com.jackchen.focustoday"
+<manifest package="com.jackchan.focustoday"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>

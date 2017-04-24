@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <com.jackchen.focustoday.ui.widget.viewpager.NoScrollViewPager
+    <com.jackchan.focustoday.ui.widget.viewpager.NoScrollViewPager
         android:id="@id/vp_content"
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -26,7 +26,7 @@
         app:itemTextColor="@drawable/bottom_navigation_color_selector"
         app:menu="@menu/bottom_navigation"/>
 
-    <!--    <com.jackchen.focustoday.ui.widget.BottomNavigationView.BottomNavigationView
+    <!--    <com.jackchan.focustoday.ui.widget.BottomNavigationView.BottomNavigationView
             android:id="@+id/bottom_navigation"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
