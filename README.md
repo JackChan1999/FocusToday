@@ -5,16 +5,12 @@
 - Email：<815712739@qq.com>
 - CSDN博客：[Allen Iverson](http://blog.csdn.net/axi295309066)
 - 新浪微博：[AndroidDeveloper](http://weibo.com/u/1848214604?topnav=1&amp;wvr=6&amp;topsug=1&amp;is_all=1)
-- GitHub：[JackChen1999](https://github.com/JackChen1999)
+- GitHub：[JackChan1999](https://github.com/JackChan1999)
 - GitBook：[alleniverson](https://www.gitbook.com/@alleniverson)
 
 # License
 
-    Copyright 2015 AllenIverson
-
-    Copyright 2012 Jake Wharton
-    Copyright 2011 Patrik Åkerfeldt
-    Copyright 2011 Francisco Figueiredo Jr.
+    Copyright 2015 JackChan
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
