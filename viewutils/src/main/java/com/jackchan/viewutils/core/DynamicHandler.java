@@ -1,4 +1,4 @@
-package com.jackchan.viewutils;
+package com.jackchan.viewutils.core;
 
 import java.lang.ref.WeakReference;
 import java.lang.reflect.InvocationHandler;

@@ -1,1 +1,1 @@
-include ':app', ':vitamio', ':recyclerview', ':commons', ':imageloader', ':httputils', ':eventbus', ':viewutils'
+include ':app', ':vitamio', ':recyclerview', ':commons', ':imageloader', ':httputils', ':eventbus', ':viewutils', ':compiler'

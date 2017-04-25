@@ -1,4 +1,4 @@
-package com.jackchan.viewutils;
+package com.jackchan.viewutils.core;
 
 import android.app.Activity;
 import android.view.View;
@@ -62,28 +62,23 @@ public class ViewInjectUtils
 			//拿到方法上的所有的注解
 			for (Annotation annotation : annotations)
 			{
-				Class<? extends Annotation> annotationType = annotation
-						.annotationType();
+				Class<? extends Annotation> annotationType = annotation.annotationType();
 				//拿到注解上的注解
-				EventBase eventBaseAnnotation = annotationType
-						.getAnnotation(EventBase.class);
+				EventBase eventBaseAnnotation = annotationType.getAnnotation(EventBase.class);
 				//如果设置为EventBase
 				if (eventBaseAnnotation != null)
 				{
 					//取出设置监听器的名称，监听器的类型，调用的方法名
-					String listenerSetter = eventBaseAnnotation
-							.listenerSetter();
+					String listenerSetter = eventBaseAnnotation.listenerSetter();
 					Class<?> listenerType = eventBaseAnnotation.listenerType();
 					String methodName = eventBaseAnnotation.methodName();
 
 					try
 					{
 						//拿到Onclick注解中的value方法
-						Method aMethod = annotationType
-								.getDeclaredMethod("value");
+						Method aMethod = annotationType.getDeclaredMethod("value");
 						//取出所有的viewId
-						int[] viewIds = (int[]) aMethod
-								.invoke(annotation, null);
+						int[] viewIds = (int[]) aMethod.invoke(annotation, null);
 						//通过InvocationHandler设置代理
 						DynamicHandler handler = new DynamicHandler(activity);
 						//往map添加方法
@@ -123,8 +118,7 @@ public class ViewInjectUtils
 		// 遍历所有成员变量
 		for (Field field : fields)
 		{
-			ViewInject viewInjectAnnotation = field
-					.getAnnotation(ViewInject.class);
+			ViewInject viewInjectAnnotation = field.getAnnotation(ViewInject.class);
 			if (viewInjectAnnotation != null)
 			{
 				int viewId = viewInjectAnnotation.value();
@@ -133,8 +127,7 @@ public class ViewInjectUtils
 					// 初始化View
 					try
 					{
-						Method method = clazz.getMethod(METHOD_FIND_VIEW_BY_ID,
-								Integer.class);
+						Method method = clazz.getMethod(METHOD_FIND_VIEW_BY_ID, Integer.class);
 						Object resView = method.invoke(clazz, viewId);
 						field.setAccessible(true);
 						field.set(clazz, resView);
