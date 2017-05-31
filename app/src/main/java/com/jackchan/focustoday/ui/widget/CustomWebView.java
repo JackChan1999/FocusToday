@@ -10,7 +10,7 @@ import android.webkit.WebView;
  * Author：   陈冠杰
  * Email：    815712739@qq.com
  * GitHub：   https://github.com/jackchan1999
- * 博客：     http://blog.csdn.net/axi295309066
+ * CSDN博客： http://blog.csdn.net/axi295309066
  * 微博：     AndroidDeveloper
  * <p>
  * Project_Name：SmartCity

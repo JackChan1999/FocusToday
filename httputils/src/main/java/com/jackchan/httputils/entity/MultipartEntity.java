@@ -46,7 +46,8 @@ import java.util.Random;
  * Email：    815712739@qq.com
  * GitHub：   https://github.com/JackChan1999
  * GitBook：  https://www.gitbook.com/@alleniverson
- * 博客：     http://blog.csdn.net/axi295309066
+ * CSDN博客： http://blog.csdn.net/axi295309066
+ * 个人博客： https://jackchan1999.github.io/
  * 微博：     AndroidDeveloper
  * <p>
  * Project_Name：FocusToday
@@ -54,7 +55,7 @@ import java.util.Random;
  * Version：1.0
  * time：2016/4/24 23:56
  * des ：
- * POST报文格式请参考博客 : http://blog.csdn.net/bboyfeiyu/article/details/41863951.
+ * POST报文格式请参考CSDN博客 : http://blog.csdn.net/bboyfeiyu/article/details/41863951.
  * <p>
  * Android中的多参数类型的Entity实体类,用户可以使用该类来上传文件、文本参数、二进制参数,
  * 不需要依赖于httpmime.jar来实现上传文件的功能.

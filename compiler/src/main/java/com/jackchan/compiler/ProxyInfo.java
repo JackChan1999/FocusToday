@@ -14,14 +14,14 @@ import javax.lang.model.util.Elements;
  * Email：    815712739@qq.com
  * GitHub：   https://github.com/JackChan1999
  * GitBook：  https://www.gitbook.com/@alleniverson
- * 博客：     http://blog.csdn.net/axi295309066
+ * CSDN博客： http://blog.csdn.net/axi295309066
  * 微博：     AndroidDeveloper
  * <p>
  * Project_Name：FocusToday
  * Package_Name：com.jackchan.compiler
  * Version：1.0
  * time：2016/4/25 19:15
- * des ：${TODO}
+ * des ：代理类
  * gitVersion：2.12.0.windows.1
  * updateAuthor：JackChan
  * updateDate：2016/4/25 19:15
@@ -70,7 +70,7 @@ public class ProxyInfo
     }
 
 
-    private void generateMethods(StringBuilder builder)
+    public void generateMethods(StringBuilder builder)
     {
 
         builder.append("@Override\n ");

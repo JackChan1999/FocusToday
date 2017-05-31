@@ -42,7 +42,7 @@ import java.net.URL;
  * Email：    815712739@qq.com
  * GitHub：   https://github.com/JackChan1999
  * GitBook：  https://www.gitbook.com/@alleniverson
- * 博客：     http://blog.csdn.net/axi295309066
+ * CSDN博客： http://blog.csdn.net/axi295309066
  * 微博：     AndroidDeveloper
  * <p>
  * Project_Name：ImageLoader
@@ -65,11 +65,37 @@ public class UrlLoader extends AbsLoader {
         FileOutputStream fos = null;
         InputStream is = null;
         Bitmap bitmap = null ;
-         HttpURLConnection conn = null ;
+        HttpURLConnection conn = null ;
         try {
             URL url = new URL(imageUrl);
             conn = (HttpURLConnection) url.openConnection();
             is = new BufferedInputStream(conn.getInputStream());
+
+            /*is.mark(is.available());
+            final InputStream inputStream = is;
+            final HttpURLConnection finalConn = conn;
+            BitmapDecoder bitmapDecoder = new BitmapDecoder() {
+
+                @Override
+                public Bitmap decodeBitmapWithOption(BitmapFactory.Options options) {
+                    Bitmap bitmap = BitmapFactory.decodeStream(inputStream, null, options);
+                    //
+                    if (options.inJustDecodeBounds) {
+                        try {
+                            inputStream.reset();
+                        } catch (IOException e) {
+                            e.printStackTrace();
+                        }
+                    } else {
+                        // 关闭流
+                        finalConn.disconnect();
+                    }
+                    return bitmap;
+                }
+            };
+            return bitmapDecoder.decodeBitmap(request.getImageViewWidth(),
+                    request.getImageViewHeight());*/
+
             bitmap =  BitmapFactory.decodeStream(is, null, null);
         } catch (Exception e) {
         	e.printStackTrace();

@@ -41,7 +41,7 @@ import com.jackchan.focustoday.ui.tabnews.TabTopNews;
  * Author：   陈冠杰
  * Email：    815712739@qq.com
  * GitHub：   https://github.com/jackchan1999
- * 博客：     http://blog.csdn.net/axi295309066
+ * CSDN博客： http://blog.csdn.net/axi295309066
  * 微博：     AndroidDeveloper
  * <p>
  * Project_Name：SmartCity
@@ -148,7 +148,7 @@ public class TabNewsFactory {
             case "手机":
                 baseTabDetailPager = new TabPhoneNews(activity);
                 break;
-            case "博客":
+            case "CSDN博客":
                 baseTabDetailPager = new TabBlogNews(activity);
                 break;
             case "社会":

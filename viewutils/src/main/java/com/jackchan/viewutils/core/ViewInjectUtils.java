@@ -19,7 +19,8 @@ import java.lang.reflect.Proxy;
  * Email：    815712739@qq.com
  * GitHub：   https://github.com/JackChan1999
  * GitBook：  https://www.gitbook.com/@alleniverson
- * 博客：     http://blog.csdn.net/axi295309066
+ * CSDN博客： http://blog.csdn.net/axi295309066
+ * 个人博客： https://jackchan1999.github.io/
  * 微博：     AndroidDeveloper
  * <p>
  * Project_Name：FocusToday
@@ -78,7 +79,7 @@ public class ViewInjectUtils
 						//拿到Onclick注解中的value方法
 						Method aMethod = annotationType.getDeclaredMethod("value");
 						//取出所有的viewId
-						int[] viewIds = (int[]) aMethod.invoke(annotation, null);
+						int[] viewIds = (int[]) aMethod.invoke(annotation, new Object[]{});
 						//通过InvocationHandler设置代理
 						DynamicHandler handler = new DynamicHandler(activity);
 						//往map添加方法

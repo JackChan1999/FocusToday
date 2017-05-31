@@ -42,7 +42,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
  * Email：    815712739@qq.com
  * GitHub：   https://github.com/JackChan1999
  * GitBook：  https://www.gitbook.com/@alleniverson
- * 博客：     http://blog.csdn.net/axi295309066
+ * CSDN博客： http://blog.csdn.net/axi295309066
  * 微博：     AndroidDeveloper
  * <p>
  * Project_Name：FocusToday
@@ -99,15 +99,14 @@ public final class EventBus {
     /**
      * 
      */
-    private List<EventType> mStickyEvents = Collections
-            .synchronizedList(new LinkedList<EventType>());
+    private List<EventType> mStickyEvents = Collections.synchronizedList(new LinkedList<EventType>());
     /**
      * the thread local event queue, every single thread has it's own queue.
      */
     ThreadLocal<Queue<EventType>> mLocalEvents = new ThreadLocal<Queue<EventType>>() {
         protected Queue<EventType> initialValue() {
             return new ConcurrentLinkedQueue<EventType>();
-        };
+        }
     };
 
     /**
@@ -216,7 +215,7 @@ public final class EventBus {
             Log.e(this.getClass().getSimpleName(), "The event object is null");
             return;
         }
-        mLocalEvents.get().offer(new EventType(event.getClass(), tag));
+        mLocalEvents.get().offer(new EventType(event.getClass(), tag ));
         mDispatcher.dispatchEvents(event);
     }
 
@@ -347,7 +346,6 @@ public final class EventBus {
     /**
      * 事件分发器
      * 
-     * @author mrsimple
      */
     private class EventDispatcher {
 

@@ -9,7 +9,8 @@ import android.util.TypedValue;
  * Author：   陈冠杰
  * Email：    815712739@qq.com
  * GitHub：   https://github.com/jackchan1999
- * 博客：     http://blog.csdn.net/axi295309066
+ * CSDN博客： http://blog.csdn.net/axi295309066
+ * 个人博客： https://jackchan1999.github.io/
  * 微博：     AndroidDeveloper
  * <p>
  * Project_Name：SmartCity
@@ -35,7 +36,7 @@ public class DensityUtils
      * dp转px 
      *  
      * @param context 
-     * @param val 
+     * @param dpVal
      * @return 
      */  
     public static int dp2px(Context context, float dpVal)  
@@ -48,7 +49,7 @@ public class DensityUtils
      * sp转px 
      *  
      * @param context 
-     * @param val 
+     * @param spVal
      * @return 
      */  
     public static int sp2px(Context context, float spVal)  
@@ -73,7 +74,7 @@ public class DensityUtils
     /** 
      * px转sp 
      *  
-     * @param fontScale 
+     * @param context
      * @param pxVal 
      * @return 
      */  

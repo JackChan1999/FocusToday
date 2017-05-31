@@ -58,7 +58,8 @@ import javax.net.ssl.SSLSocketFactory;
  * Email：    815712739@qq.com
  * GitHub：   https://github.com/JackChan1999
  * GitBook：  https://www.gitbook.com/@alleniverson
- * 博客：     http://blog.csdn.net/axi295309066
+ * CSDN博客： http://blog.csdn.net/axi295309066
+ * 个人博客： https://jackchan1999.github.io/
  * 微博：     AndroidDeveloper
  * <p>
  * Project_Name：FocusToday
@@ -142,8 +143,7 @@ public class HttpUrlConnStack implements HttpStack {
             // enable output
             connection.setDoOutput(true);
             // set content type
-            connection
-                    .addRequestProperty(Request.HEADER_CONTENT_TYPE, request.getBodyContentType());
+            connection.addRequestProperty(Request.HEADER_CONTENT_TYPE, request.getBodyContentType());
             // write params data to connection
             DataOutputStream dataOutputStream = new DataOutputStream(connection.getOutputStream());
             dataOutputStream.write(body);

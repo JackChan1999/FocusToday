@@ -1,7 +1,7 @@
 package com.jackchan.compiler;
 
 import com.google.auto.service.AutoService;
-import com.jackchan.compiler.annotation.BindView;
+import com.jackchan.annotation.BindView;
 
 import java.io.IOException;
 import java.io.Writer;
@@ -32,14 +32,14 @@ import javax.tools.JavaFileObject;
  * Email：    815712739@qq.com
  * GitHub：   https://github.com/JackChan1999
  * GitBook：  https://www.gitbook.com/@alleniverson
- * 博客：     http://blog.csdn.net/axi295309066
+ * CSDN博客： http://blog.csdn.net/axi295309066
  * 微博：     AndroidDeveloper
  * <p>
  * Project_Name：FocusToday
  * Package_Name：com.jackchan.compiler
  * Version：1.0
  * time：2016/4/25 19:15
- * des ：编译时注解
+ * des ：注解处理器
  * gitVersion：2.12.0.windows.1
  * updateAuthor：JackChan
  * updateDate：2016/4/25 19:15

@@ -6,7 +6,7 @@ package com.jackchan.focustoday.http;
  * Author：   陈冠杰
  * Email：    815712739@qq.com
  * GitHub：   https://github.com/jackchan1999
- * 博客：     http://blog.csdn.net/axi295309066
+ * CSDN博客： http://blog.csdn.net/axi295309066
  * 微博：     AndroidDeveloper
  * <p>
  * Project_Name：SmartCity
@@ -76,7 +76,7 @@ public class RequestUrl {
     public static final String JourneyId    = "T1348654204705";
     // 手机
     public static final String PhoneId      = "T1348649654285";
-    // 博客
+    // CSDN博客
     public static final String BlogId       = "T1349837698345";
     // 社会
     public static final String SocietyId    = "T1348648037603";
